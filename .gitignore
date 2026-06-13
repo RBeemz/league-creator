@@ -1,4 +1,3 @@
-includes/config.php
 assets/uploads/*
 !assets/uploads/.gitkeep
 vendor/
